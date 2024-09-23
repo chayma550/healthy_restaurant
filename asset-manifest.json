@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/healthy_restaurant/static/css/main.bf23878b.css",
+    "main.js": "/healthy_restaurant/static/js/main.564a0d86.js",
+    "static/media/image1.jpg": "/healthy_restaurant/static/media/image1.556b7b4c280e92dc10a0.jpg",
+    "static/media/image2.jpg": "/healthy_restaurant/static/media/image2.f91f4d81a6683e1cf396.jpg",
+    "static/media/image7 (2).jpg": "/healthy_restaurant/static/media/image7 (2).e85034fee5edd72e1d53.jpg",
+    "static/media/home-banner-image.png": "/healthy_restaurant/static/media/home-banner-image.a41849b23e5c36d66717.png",
+    "static/media/food1.png": "/healthy_restaurant/static/media/food1.f97d628957b80ac54d65.png",
+    "static/media/food2.png": "/healthy_restaurant/static/media/food2.7d22040acbda14b1f613.png",
+    "static/media/food3.png": "/healthy_restaurant/static/media/food3.aed931b164fb1577cf34.png",
+    "static/media/about-background-image.png": "/healthy_restaurant/static/media/about-background-image.d0e45280dd69dec26ee6.png",
+    "static/media/food5.png": "/healthy_restaurant/static/media/food5.ff617bd4d1ec7335fb98.png",
+    "static/media/somon.png": "/healthy_restaurant/static/media/somon.a082d491c12bfebee2d0.png",
+    "static/media/papper.png": "/healthy_restaurant/static/media/papper.312db45c6a18cfcb73e5.png",
+    "static/media/bowl-removebg-preview.png": "/healthy_restaurant/static/media/bowl-removebg-preview.045a18d61b0ef9412694.png",
+    "static/media/image 3.png": "/healthy_restaurant/static/media/image 3.6373443ddc1961bda7d1.png",
+    "static/media/brocoli.png": "/healthy_restaurant/static/media/brocoli.839411b072305a482ff0.png",
+    "static/media/salade.png": "/healthy_restaurant/static/media/salade.4c5f79c8685e708ec0ab.png",
+    "static/media/cesar.png": "/healthy_restaurant/static/media/cesar.0c71de1f0cceefa3de07.png",
+    "static/media/image4.webp": "/healthy_restaurant/static/media/image4.ec91f95d9dbea425bbe1.webp",
+    "static/media/blueberry.png": "/healthy_restaurant/static/media/blueberry.4efc1a7916c0585f4f67.png",
+    "static/media/fraise.png": "/healthy_restaurant/static/media/fraise.99bbb6ad030df258b4c0.png",
+    "static/media/coffe.png": "/healthy_restaurant/static/media/coffe.e0871fec479c5912ab3a.png",
+    "static/media/image5.jpg": "/healthy_restaurant/static/media/image5.cc0dccfabee635442505.jpg",
+    "static/media/water.png": "/healthy_restaurant/static/media/water.319264434e3e151f3735.png",
+    "static/media/home-banner-background.png": "/healthy_restaurant/static/media/home-banner-background.585600da7ff85661555e.png",
+    "static/media/revicons.eot": "/healthy_restaurant/static/media/revicons.a77de540a38981833f9e.eot",
+    "static/media/revicons.ttf": "/healthy_restaurant/static/media/revicons.57fd05d4ae650374c8de.ttf",
+    "static/media/revicons.woff": "/healthy_restaurant/static/media/revicons.e8746a624ed098489406.woff",
+    "static/media/Logo.svg": "/healthy_restaurant/static/media/Logo.e04f4319ea0059a833b1ca8d03810b60.svg",
+    "index.html": "/healthy_restaurant/index.html",
+    "main.bf23878b.css.map": "/healthy_restaurant/static/css/main.bf23878b.css.map",
+    "main.564a0d86.js.map": "/healthy_restaurant/static/js/main.564a0d86.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bf23878b.css",
+    "static/js/main.564a0d86.js"
+  ]
+}
