@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/healthy_restaurant/static/css/main.bf23878b.css",
-    "main.js": "/healthy_restaurant/static/js/main.b4607fb4.js",
+    "main.js": "/healthy_restaurant/static/js/main.97b5c466.js",
     "static/media/image1.jpg": "/healthy_restaurant/static/media/image1.556b7b4c280e92dc10a0.jpg",
     "static/media/image2.jpg": "/healthy_restaurant/static/media/image2.f91f4d81a6683e1cf396.jpg",
     "static/media/image7 (2).jpg": "/healthy_restaurant/static/media/image7 (2).e85034fee5edd72e1d53.jpg",
@@ -31,10 +31,10 @@
     "static/media/Logo.svg": "/healthy_restaurant/static/media/Logo.e04f4319ea0059a833b1ca8d03810b60.svg",
     "index.html": "/healthy_restaurant/index.html",
     "main.bf23878b.css.map": "/healthy_restaurant/static/css/main.bf23878b.css.map",
-    "main.b4607fb4.js.map": "/healthy_restaurant/static/js/main.b4607fb4.js.map"
+    "main.97b5c466.js.map": "/healthy_restaurant/static/js/main.97b5c466.js.map"
   },
   "entrypoints": [
     "static/css/main.bf23878b.css",
-    "static/js/main.b4607fb4.js"
+    "static/js/main.97b5c466.js"
   ]
 }
